@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMPB</string>
+    <string name="hapus">Hapus</string>
+    <string name="simpan">Simpan</string>
+</resources>

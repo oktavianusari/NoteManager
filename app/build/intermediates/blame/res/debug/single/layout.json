@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_kategori.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\manage_kategori.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_screen.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\main_screen.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_role.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\edit_role.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_status.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\manage_status.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_status.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\add_status.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_artikel.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\manage_artikel.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_role.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\manage_role.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_user.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\edit_user.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_status.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\edit_status.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_role.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\add_role.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_article.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\edit_article.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_article.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\add_article.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_article_manager.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\edit_article_manager.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_admin.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\main_admin.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_kategori.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\edit_kategori.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_kategori.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\add_kategori.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_user.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\manage_user.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\ASProject\\SMPB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\OneDrive\\ASProject\\SMPB\\app\\src\\main\\res\\layout\\login.xml"
+    }
+]

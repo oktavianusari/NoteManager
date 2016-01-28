@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.my.ari.smpb"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+
+    <application
+        android:configChanges="keyboardHidden|orientation"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        >
+
+
+        <activity
+            android:name="id.my.ari.smpb.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- All Product Activity -->
+        <activity
+            android:name="id.my.ari.smpb.ManageRole"
+            android:label="Manajemen Peran" >
+        </activity>
+        
+          <activity
+            android:name="id.my.ari.smpb.ManageUser"
+            android:label="Manajemen Pengguna" >
+        </activity>
+        
+          <activity
+            android:name="id.my.ari.smpb.ManageArticle"
+            android:label="Manajemen Artikel" >
+        </activity>
+        
+          <activity
+            android:name=".ManageArticleManager"
+            android:label="Manajemen Artikel TEST" >
+        </activity>
+        
+         <activity
+            android:name="id.my.ari.smpb.ManageKategori"
+            android:label="Manajemen Kategori" >
+        </activity>
+        
+         <activity
+            android:name="id.my.ari.smpb.ManageStatus"
+            android:label="Manage Status" >
+        </activity>
+
+        <!-- Add Product Activity -->
+        <activity
+            android:name="id.my.ari.smpb.NewRole"
+            android:label="Tambah Peran Baru" >
+        </activity>
+        <!--
+         <activity
+            android:name="id.my.ari.smpb.NewUser"
+            android:label="Tambah Pengguna Baru" >
+             </activity>
+             -->
+              <activity
+            android:name="id.my.ari.smpb.NewKategori"
+            android:label="Tambah Peran Baru" >
+        </activity>
+        
+        <activity
+            android:name="id.my.ari.smpb.NewArticle"
+            android:label="Tambah Artikel Baru" >
+        </activity>
+        
+        <activity
+            android:name="id.my.ari.smpb.NewStatus"
+            android:label="Tambah Status Baru" >
+        </activity>
+
+        <!-- Edit Product Activity -->
+        <activity
+            android:name="id.my.ari.smpb.EditRole"
+            android:label="Edit Peran" >
+        </activity>
+        
+          <activity
+            android:name="id.my.ari.smpb.EditUser"
+            android:label="Edit Pengguna" >
+        </activity>
+        
+            <activity
+            android:name="id.my.ari.smpb.EditKategori"
+            android:label="Edit Kategori" >
+        </activity>
+        
+             <activity
+            android:name="id.my.ari.smpb.EditArticle"
+            android:label="Edit Artikel" >
+        </activity>
+        
+             <activity
+            android:name=".EditArticleManager"
+            android:label="Edit Artikel TEST" >
+        </activity>
+        
+        <activity
+            android:name="id.my.ari.smpb.EditStatus"
+            android:label="Edit Status" >
+        </activity>
+            
+        
+        <activity
+            android:name="id.my.ari.smpb.MainScreenActivity"
+            android:label="Sistem Manajemen Pengetahuan Brainmatics" >
+        </activity>
+        
+        <activity
+            android:name="id.my.ari.smpb.RegisterActivity"
+            android:label="Sistem Manajemen Pengetahuan Brainmatics" >
+        </activity>
+        <activity
+            android:name="id.my.ari.smpb.MainAdmin"
+            android:label="Sistem Manajemen Pengetahuan Brainmatics" >
+        </activity>
+    </application>
+
+    <!--  Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

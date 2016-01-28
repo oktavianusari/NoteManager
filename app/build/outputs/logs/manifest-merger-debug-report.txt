@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:2:1-133:12
+	xmlns:android
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:9:5-128:19
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:11:9-45
+	android:configChanges
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:10:9-59
+activity#id.my.ari.smpb.LoginActivity
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:17:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:22:27-74
+activity#id.my.ari.smpb.ManageRole
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:28:13-53
+activity#id.my.ari.smpb.ManageUser
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:32:11-35:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:34:13-47
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:33:13-53
+activity#id.my.ari.smpb.ManageArticle
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:37:11-40:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:39:13-46
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:38:13-56
+activity#id.my.ari.smpb.ManageArticleManager
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:42:11-45:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:44:13-51
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:43:13-49
+activity#id.my.ari.smpb.ManageKategori
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:47:10-50:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:49:13-47
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:48:13-57
+activity#id.my.ari.smpb.ManageStatus
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:52:10-55:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:54:13-42
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:53:13-55
+activity#id.my.ari.smpb.NewRole
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:60:13-46
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:59:13-50
+activity#id.my.ari.smpb.NewKategori
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:68:15-71:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:70:13-46
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:69:13-54
+activity#id.my.ari.smpb.NewArticle
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:73:9-76:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:75:13-48
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:74:13-53
+activity#id.my.ari.smpb.NewStatus
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:78:9-81:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:80:13-47
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:79:13-52
+activity#id.my.ari.smpb.EditRole
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:86:13-39
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:85:13-51
+activity#id.my.ari.smpb.EditUser
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:89:11-92:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:91:13-42
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:90:13-51
+activity#id.my.ari.smpb.EditKategori
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:94:13-97:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:96:13-42
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:95:13-55
+activity#id.my.ari.smpb.EditArticle
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:99:14-102:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:101:13-41
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:100:13-54
+activity#id.my.ari.smpb.EditArticleManager
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:104:14-107:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:106:13-46
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:105:13-47
+activity#id.my.ari.smpb.EditStatus
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:109:9-112:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:111:13-40
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:110:13-53
+activity#id.my.ari.smpb.MainScreenActivity
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:115:9-118:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:117:13-69
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:116:13-61
+activity#id.my.ari.smpb.RegisterActivity
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:120:9-123:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:122:13-69
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:121:13-59
+activity#id.my.ari.smpb.MainAdmin
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:124:9-127:20
+	android:label
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:126:13-69
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:125:13-52
+uses-permission#android.permission.INTERNET
+ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:131:5-67
+	android:name
+		ADDED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml:131:22-64
+uses-sdk
+INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OneDrive\ASProject\SMPB\app\src\main\AndroidManifest.xml

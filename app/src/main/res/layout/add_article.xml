@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+  <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Judul"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:textSize="17dip"/>
+    
+    <!-- Input Name -->
+	<EditText android:id="@+id/inputJudul"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dip"
+	    android:layout_marginBottom="15dip"
+	    android:singleLine="true"/>
+
+	 <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:text="Kategori"
+            android:textSize="18dip"
+            android:textStyle="bold" />
+
+         <Spinner android:id="@+id/role_kat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+         
+	<TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Isi"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:textSize="17dip"/>
+    
+    <!-- Input Name -->
+	<EditText android:id="@+id/inputDeskripsi"
+	    android:layout_width="fill_parent"
+        android:minHeight="120dp"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dip"
+	    android:layout_marginBottom="15dip"
+	    android:singleLine="true"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:text="Status"
+        android:textSize="18dip"
+        android:textStyle="bold" />
+
+    <Spinner android:id="@+id/role_stat"
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+	
+	<!-- Button Create Product -->
+	<Button android:id="@+id/btnCreateProduct" 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/simpan"/>
+	
+</LinearLayout>
